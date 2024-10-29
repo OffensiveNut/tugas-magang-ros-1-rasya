@@ -1,0 +1,2 @@
+sistem_frs
+-DCATKIN_DEVEL_PREFIX=/home/rasya/Documents/tugasROS/devel -DCMAKE_INSTALL_PREFIX=/home/rasya/Documents/tugasROS/install -G Unix Makefiles
